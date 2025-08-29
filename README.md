@@ -22,7 +22,7 @@ The TalentScout AI Hiring Assistant guides a candidate through a series of quest
 
 1. Clone the repository:
     ```
-    git clone <repository_link>
+    git clone https://github.com/SherazTheG/Talent-Hiring-Assistant
     cd talent_scout
     ```
 
